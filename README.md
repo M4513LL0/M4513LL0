@@ -1,7 +1,7 @@
 ### :floppy_disk: whois
 [![id](https://img.shields.io/badge/id-Jonathan%20Masiello-black?style=for-the-badge)](http://M4513LL0.com) 
 [![location](https://img.shields.io/badge/location-Rocky%20Mountains-black?style=for-the-badge)](https://en.wikipedia.org/wiki/Rocky_Mountains) 
-[![occupation](https://img.shields.io/badge/occupation-Systems%20Architect-black?style=for-the-badge)](http://masiello.dev/blog/systems-architect)
+[![occupation](https://img.shields.io/badge/occupation-UI%20Architect-black?style=for-the-badge)](http://m4513ll0.com/blog/ui-architect)
 
 ### :computer: stack
 [![react](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://reactjs.org) 
