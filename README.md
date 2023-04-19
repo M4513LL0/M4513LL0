@@ -11,6 +11,8 @@
 [![graphql](https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql)](https://graphql.org/)
 
 ### :hammer_and_wrench: work
+[![modern recruiting](https://img.shields.io/badge/modern%20recruiting-black?style=for-the-badge)](https://www.modernrecruiting.com/)
+[![nelnet](https://img.shields.io/badge/nelnet-black?style=for-the-badge)](https://www.nelnetbank.com/)
 [![capital one](https://img.shields.io/badge/capital%20one-black?style=for-the-badge)](https://www.capitalone.com/) 
 [![nike](https://img.shields.io/badge/nike-black?style=for-the-badge)](https://nike.com) 
 [![toyota racing](https://img.shields.io/badge/toyota%20racing-black?style=for-the-badge)](https://www.trdusa.com/) 
